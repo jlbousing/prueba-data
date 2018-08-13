@@ -1,5 +1,15 @@
 {
-  "profile": {
-    "name": "Jorge Luis Bou-saad"
-  }
+  "banner":[
+    {"body": "imagen1",
+     "imgPath": "link-img1.jpg"
+    },
+    {
+     "body": "imagen2",
+     "imgPath": "link-img2.jpg"
+    },
+    {
+     "body": "imagen3",
+     "imgPath": "link-img3.jpg"
+    }
+  ]
 }
