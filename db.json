@@ -2,17 +2,17 @@
   "banner":[
     {"body": "imagen1",
      "imgPath": "http://oi65.tinypic.com/sfuel0.jpg",
-     "redirectTo": "https://www.youtube.com/channel/UCgpRZfy8bPJeYkP_WS28fgw"
+     "url": "https://www.youtube.com/channel/UCgpRZfy8bPJeYkP_WS28fgw"
     },
     {
      "body": "imagen2",
      "imgPath": "link-img2.jpg",
-     "redirectTo": "www.google.co.ve"
+     "url": "www.google.co.ve"
     },
     {
      "body": "imagen3",
      "imgPath": "link-img3.jpg",
-     "redirectTo": "www.google.co.ve"
+     "url": "www.google.co.ve"
     }
   ]
 }
